@@ -1,6 +1,6 @@
 👋 Hi, I’m Tomasz
 
-👀 I’m interested in programming 💻, astronomy 🚀 and new technolgies 📱
+👀 I’m interested in programming 💻 astronomy 🚀 and new technolgies 📱
 
 🌱 I’m currently learning JavaScript (React.js, Node.js, Express.js, TypeScript, NestJS) and MYSQL & MongoDB
 
