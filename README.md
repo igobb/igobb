@@ -8,5 +8,7 @@
 
 📫 How to contact me? Via my email - t.golab06@gmail.com or
 
+🇬🇧 My level of English is remained at B1/B2 but I am currently learning it daily.
+
 💼 My LinkedIn - https://www.linkedin.com/in/igobb/
 
