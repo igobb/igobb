@@ -12,9 +12,9 @@
 
 💼 My LinkedIn - https://www.linkedin.com/in/igobb/
 
-🌱 Main Stack: React, Node.JS
+🌱 Main Stack: React, React Router, Node.JS, CSS/Scss, BEM metodology, HTML, MaterialUI and other libraries. 
 
-👅 Languages: JavaScript, HTML, CSS
+👅 Languages: JavaScript
 
 🧰 Tools: Git, Github, NPM, Eslint, VSC, WebStorm
 
