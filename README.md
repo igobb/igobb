@@ -16,6 +16,6 @@
 
 👅 Languages: JavaScript
 
-🧰 Tools: Git, Github, NPM, Eslint, VSC, WebStorm, Slack
+🧰 Tools: Docker, Git, Github, GitLab, NPM, Eslint, VSC, WebStorm, Slack, Jira
 
 
