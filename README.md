@@ -1,13 +1,13 @@
 👋 Hi, I’m Tomasz
 
-👁️ See also my [employee github](https://cutt.ly/HwxCgUWt
-)
+👁️ See also my [employee github](https://github.com/tomaszgolab-landingi)
 
 👀 I’m interested in programming 💻 astronomy 🚀 and new technolgies 📱
 
 🌱 I’m currently learning JavaScript (React.js, Node.js, Express.js, TypeScript, NestJS) and MYSQL & MongoDB
 
-💞️ Currently at Landingi, where I am responsible for the Event Tracker project - a built-in no-code tool that allows tracking, analyzing, and optimizing traffic on landing pages. Try interactive demos and read the details about EventTracker https://lnkd.in/dCnMn9Bx
+💞️ Currently at Landingi, where I am responsible for the Event Tracker project - a built-in no-code tool that allows tracking, analyzing, and optimizing traffic on landing pages. Try interactive demos and read the details about [EventTracker](https://cutt.ly/HwxCgUWt
+)
 
 📫 How to contact me? Via my email - t.golab06@gmail.com
 
