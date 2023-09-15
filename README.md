@@ -1,6 +1,7 @@
 👋 Hi, I’m Tomasz
 
-👁️ See also my employee github https://github.com/tomaszgolab-landingi
+👁️ See also my [employee github](https://cutt.ly/HwxCgUWt
+)
 
 👀 I’m interested in programming 💻 astronomy 🚀 and new technolgies 📱
 
