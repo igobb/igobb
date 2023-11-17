@@ -4,7 +4,7 @@
 
 👀 I’m interested in programming 💻 astronomy 🚀 and new technolgies 📱
 
-🌱 I’m currently learning JavaScript (React.js, Node.js, Express.js, TypeScript, NestJS) and MYSQL & MongoDB
+🌱 I’m currently learning and working with JavaScript (React.js, Node.js, Express.js, TypeScript, NestJS) and MYSQL & MongoDB
 
 💞️ Currently at Landingi, where I am responsible for the Event Tracker project - a built-in no-code tool that allows tracking, analyzing, and optimizing traffic on landing pages. Try interactive demos and read the details about [EventTracker](https://cutt.ly/HwxCgUWt
 )
@@ -19,6 +19,6 @@
 
 👅 Languages: JavaScript, TypeScript
 
-🧰 Tools: Docker, Git, Github, GitLab, NPM, Eslint, VSC, WebStorm, Slack, Jira, Vite
+🧰 Tools: Docker, Git, Github, GitLab, NPM, NVM, PNPM, Eslint, Prettier, VSC, WebStorm, Slack, Jira, Vite
 
 
