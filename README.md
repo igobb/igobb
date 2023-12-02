@@ -11,6 +11,7 @@
 💞️ Currently at Landingi, where I am responsible for the Event Tracker project - a built-in no-code tool that allows tracking, analyzing, and optimizing traffic on landing pages. Try interactive demos and read the details about [EventTracker](https://cutt.ly/HwxCgUWt)
 
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igobb/) [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100001082506177)
 <br>
 
@@ -24,5 +25,5 @@
 ## I also use
 <img align="left" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img align="left" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img align="left" alt="eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img align="left" alt="prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 <br>
-
+<br>
 🧰 Other tools: Docker, Github, GitLab, NPM, NVM, PNPM, Slack, Jira
